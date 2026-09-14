@@ -1,0 +1,19 @@
+give me streamlit python code , to do data analysis of "csv/excel" file uploaded, 
+
+give provision to upload "csv/excel" file, use tabs one for each functionality
+  
+1. display the details of file  
+
+2. give provision to filter  the columns to be displayed as multi select 
+
+3. give provision to group the values based on group by columns multi select 
+
+4. give provision for  aggregate columns multi select , 
+consolidate from serial number 2-4 and display the result in a separate tab, 
+
+give provision for pivot functionality in a separate tab based on the "csv/excel" file uploaded ,
+ use the csv file uploaded as sample data, which contains text values, numeric values, 
+
+user will upload different sets of data, system should identify text columns, 
+
+numeric columns and decide grouping ("text columns")  / aggregate ("numeric columns")

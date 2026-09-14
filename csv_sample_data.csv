@@ -1,0 +1,5 @@
+org_name,country,state,city,dep_name,desig_name,grade,fixed_salary,var_pay,fix_%,var_%
+abc,india,TN,CHN,HR,MANAGER,G1,40000,25000,61.53,38.46
+abc,india,TN,CHN,HR,MANAGER,G2,35000,20000,63.64,36.36
+abc,india,TN,SLM,HR,MANAGER,G1,30000,20000,60.00,40.00
+abc,india,TN,SLM,HR,MANAGER,G2,35000,22000,61.40,38.60
