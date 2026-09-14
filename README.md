@@ -27,11 +27,9 @@ Python code to do Excel File Analysis , Filter/Grouping/Pivot/Chart generation
 
 		5: MD\EXCEL_ANALYSIS
 
-		6: MD\EXCEL_ANALYSIS
+		6: copy csv_sample_data.csv D:\PYEXA ( Folder )
 
-		7: copy csv_sample_data.csv D:\PYEXA ( Folder )
-
-		8: copy 3.bat RUN 3.BAT
+		7: copy 3.bat RUN 3.BAT
 
 			STREAMLIT RUN csv_exc_analysis.py
 
